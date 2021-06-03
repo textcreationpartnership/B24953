@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A declaration. James R. We being informed that as well in the troops lately come out of England, who made a descent into this our kingdom, under the command of Mareshal Schomberge, as in those who formerly have taken arms here against us, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24953</idno><idno type="EEBO-CITATION">99887599</idno>
+  <idno type="VID">190627</idno>
+  <idno type="EEBO-PROQUEST">2240888644</idno>
+  
+            <idno type="STC">Wing J171</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[79]</idno>
+            <idno type="STC">ESTC R227973</idno>
+            <idno type="PROQUEST">ocm99887599</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887599e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190627)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C23:1[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A declaration. James R. We being informed that as well in the troops lately come out of England, who made a descent into this our kingdom, under the command of Mareshal Schomberge, as in those who formerly have taken arms here against us, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke, printer to the King's most excellent Majesty: and are to be sold at His Majesties Printing-House on Ormonde-Key, and the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>"Given at our court at Drogheda the third day of September 1689 And in the fifth year of our reign."</note>
+                  <note>Arms 185.</note>
+                  <note>Offering pardon to Schomberg's army.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pardon --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:190627:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of James II</figDesc>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By The KING. A DECLARATION</head>
+            <opener>
+               <signed>IAMES R.</signed>
+            </opener>
+            <p>VVE being informed that as well in the Troops lately come out of <hi>England,</hi> who made a descent into this Our Kingdom, under the command of Mareshal <hi>Schomberge,</hi> as in those who formerly have taken Arms <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> against us, there are many Officers and Souldiers, as well Our <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as Strangers inlisted, and engaged with Our Enemies; the first <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for want of taking due consideration of the consequence of Treason and rebellion, suffering themselves to be deluded by those, who under many false <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>etensions labour'd to perswade them to joyn with our Enemy, than out of <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> treasonable intention, or want of Affection to Vs their Lawful Sove<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aign; The other for want of reflecting upon the unlawfulness of their acti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, which tend to promote Injustice and Vsurpation. And being further <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>formed that they are now so sensible of the fault they committed, that Our subjects among them are ready to return to their Allegiance, in case We <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould grant them Our pardon for taking Arms against Vs. And having <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken the same into Our Princely consideration, and being not only inclined to <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> clemency, but also to be favourable to such of the said Officers and Soul<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iers as shall come to Our Army, in order to Fight for Vs, their lawful Prince, against Our Enemy; We do hereby Publish and Declare, that We will not only Grant Our Royal Pardon to all such Officers and Souldiers, whether Subjects or Strangers, whether they be come out of <hi>England</hi> under the Command of Mareshal <hi>Schomberge,</hi> or acted here before against Vs, but that they shall have the like Command and Imployment in Our Service, that they now have among Our Enemy; and shall be Promoted and Preferr'd to better Imployment, according their merit, and shall enjoy the same liberty and freedom any other of Our faithful Subjects, of what perswasion soever in Religion do enjoy; provided that they return to their Duty, and joyn with Our Army before the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> next ensuing the date here<g ref="char:EOLhyphen"/>of. But in case any of them refuse to accept of this Our Royal Offer, We do hereby declare, that they shall be dealt with according to the utmost rigour of the Common Law, and Martial Law of this Our Kingdom.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Drogheda</hi>
+                  </hi>
+                  <date>
+                     <hi>the third day of <hi>September</hi>
+                     </hi> 1689 <hi>And in the Fifth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>By <hi>His Majesties Command, RI. NAGLE.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham,</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the King's most Excellent Majesty; and are to be Sold at His Ma<g ref="char:EOLhyphen"/>jesties Printing-House on <hi>Ormond-Key,</hi> and the <hi>Colledg-Arms</hi> in <hi>Castle-street.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
